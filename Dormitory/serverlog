@@ -1,0 +1,11 @@
+Server is started at port 9980
+Request message:{'function':'AdminLoginDao_checkLogin','data':{'user':'bit0_programmer','pwd':'ae168c4db9505e5db159a7504d17548b'}}
+Request message:{'function':'AdminDAO_StudentsNum','data':'VKU'}
+Request message:{'function':'AdminDAO_StudentsNum','data':'SMP'}
+Request message:{'function':'AdminDAO_WaitingStudentsList','data':''}
+Request message:{'function':'AdminDAO_RoomList','data':"OR Name='Dãy 1' OR Name='Dãy 2' OR(Name='Dãy 3' AND( Type=4  OR  Type=6 )) OR Name='DServer is started at port 9980
+Request message:{'function':'AdminLoginDao_checkLogin','data':{'user':'bit0_programmer','pwd':'ae168c4db9505e5db159a7504d17548b'}}
+Request message:{'function':'AdminDAO_StudentsNum','data':'VKU'}
+Request message:{'function':'AdminDAO_StudentsNum','data':'SMP'}
+Request message:{'function':'AdminDAO_WaitingStudentsList','data':''}
+Request message:{'function':'AdminDAO_RoomList','data':"OR Name='Dãy 1' OR Name='Dãy 2' OR(Name='Dãy 3' AND( Type=4  OR  Type=6 )) OR Name='D
